@@ -1,3 +1,3 @@
 # Practice
 
-This text is the original text from quantum repo
+This text is from bilalkhan30 repo
